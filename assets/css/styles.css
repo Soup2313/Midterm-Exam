@@ -1,2 +1,27 @@
 /* styles.css */
 
+body {
+    font-family: Clarity City, Libre Caslon Condensed, sans-serif;
+    background-color: #ffedd8;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Libre Caslon Condensed, sans-serif;
+    font-size: 3em;
+    color: #30343f;
+    text-align: center;
+   
+}
+h2 {
+    font-size: 2em;
+    color: #30343f;
+    font-family: Clarity City, sans-serif;
+}
+a {
+    color: #415a77;
+    font-family: Clarity City, sans-serif;
+    text-decoration: none;
+    
+    
+}
